@@ -19,4 +19,4 @@ int main()
     std::cout << product << std::endl;
 
     return 0;
-}
+} 
