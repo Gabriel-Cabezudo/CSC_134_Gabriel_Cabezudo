@@ -1,5 +1,5 @@
 //@author: Gabriel Cabezudo
-//@date: 08/27/2025
+//@date: 09/3/2025
 //This program calculates the product of two numbers
 
 //include the iostream directive
