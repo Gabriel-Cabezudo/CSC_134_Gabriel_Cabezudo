@@ -1,6 +1,6 @@
 //@author: Gabriel Cabezudo
 //@date: 08/27/2025
-//This program calculates the product of two numbers
+//This program calculates the quotient of a number divided by zero
 
 //include the iostream directive
 #include <iostream>

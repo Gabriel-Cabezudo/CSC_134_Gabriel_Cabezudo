@@ -1,6 +1,6 @@
 //@author: Gabriel Cabezudo
 //@date: 09/3/2025
-//This program calculates the product of two numbers
+//This program prints out my favorite movie and characters
 
 //include the iostream directive
 #include <iostream>
