@@ -3,7 +3,6 @@
 //This program calculates the average of 3 integers
 
 #include <iostream>
-#include <cmath>
 
 using namespace std;
 
@@ -14,9 +13,9 @@ int main()
     double average;
     //ask user for input
     cout <<"Enter three integers:";
+    cout << "Enter three integers: ";
     cin >> num1 >>num2 >> num3;
-    //calculate average
-    average= (num1 + num2 + num3) / 3;
+    average = (num1 + num2 + num3) / 3.0;
     //print out the average
     cout << "The average of " << num1 << " , " << num2 << " , and " << num3 << " is: " << average << endl;
 
