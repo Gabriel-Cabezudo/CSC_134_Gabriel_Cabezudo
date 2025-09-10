@@ -16,7 +16,7 @@ int main()
     cout << "Enter three integers: ";
     cin >> num1 >>num2 >> num3;
     average = (num1 + num2 + num3) / 3.0;
-    if (average>=90)
+    if (average>=90 && average<101)
     {
         cout << " A" << endl;
     }
