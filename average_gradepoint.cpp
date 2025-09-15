@@ -13,8 +13,7 @@ int main()
     double average;
     //ask user for input
     cout <<"Enter three integers:";
-    cout << "Enter three integers: ";
-    cin >> num1 >>num2 >> num3;
+     cin >> num1 >>num2 >> num3;
     average = (num1 + num2 + num3) / 3.0;
     if (average>=90 && average<101)
     {
