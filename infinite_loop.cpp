@@ -4,7 +4,6 @@
 
 //include necessary libraries
 #include <iostream>
-#include <cmath> //for mathematical functions
 
 //use the standard namespace
 using namespace std;
