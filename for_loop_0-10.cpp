@@ -14,7 +14,7 @@ int main()
     for (int count = 0; count <= 10; count++)
     {
         //print out each iteration of the loop
-        std::cout << count << std::endl;
+        cout << count << endl;
 
     }
     return 0;
