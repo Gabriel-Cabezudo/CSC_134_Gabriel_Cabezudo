@@ -16,7 +16,7 @@ int main()
     for (int count = 0; count < 100; count++)
     {
         //increment the accumulator by 1 for each iteration
-        accumulator += 1;
+        accumulator ++;
 
     }
 
