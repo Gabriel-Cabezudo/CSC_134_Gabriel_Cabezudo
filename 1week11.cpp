@@ -24,4 +24,4 @@ main()
     cout << "The gradepoint average is: " << average << endl;
  return 0;
 
-}
+} 
