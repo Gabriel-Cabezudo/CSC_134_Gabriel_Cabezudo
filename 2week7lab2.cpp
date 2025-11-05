@@ -1,6 +1,6 @@
 //Gabriel Cabezudo
 //10/5/2025
-// Write a program that asks the user to enter the amount that they have budgeted for a month. A loop should then prompt the user to enter each of their expenses for the month and keep a running total. When the loop finishes, the program should display the amount that the user is over or under budget.
+//This program helps users track their monthly budget by allowing them to input their budgeted amount and expenses, then calculates whether they are over or under budget
 
 #include <iostream>
 #include <limits>

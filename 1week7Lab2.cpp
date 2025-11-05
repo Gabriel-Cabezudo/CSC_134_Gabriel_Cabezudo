@@ -1,5 +1,6 @@
 //Gabriel Cabezudo
 //10/5/2025
+//This program calculates and displays the projected membership fees for a country club over the next five years
 
 #include <iostream>
 

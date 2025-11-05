@@ -1,6 +1,6 @@
 //Gabriel Cabezudo
 //11/2/2025
-
+//This code prompts the user to enter five integers, stores them in an array, and then displays them in reverse order
 
 #include <iostream>
 #include <limits>
